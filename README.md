@@ -8,7 +8,8 @@ An implicit dependency occurs when one resource references an attribute of anoth
 
 Example: EC2 Instance and Elastic IP (EIP)
 
-<img width="1341" height="601" alt="image" src="https://github.com/user-attachments/assets/758ae590-030f-42f6-9abb-d82ef4fa5806" />
+<img width="1316" height="549" alt="image" src="https://github.com/user-attachments/assets/3a10ce40-bbe9-4e95-90a9-20326a57ff09" />
+
 
 ## How Terraform Interprets This
 
